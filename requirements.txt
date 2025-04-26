@@ -1,0 +1,17 @@
+# Core app
+streamlit>=1.32
+
+# Streamlit convenience add-ons
+streamlit-extras   # card, stylable_container
+streamlit-shortcuts
+streamlit-folium
+
+# Mapping / geocoding
+folium             # Leaflet maps
+geopy              # Nominatim geocoder (OpenStreetMap)
+
+# Charts used in the profile page
+matplotlib
+
+# Optional but recommended for better emoji rendering on some systems
+emoji
