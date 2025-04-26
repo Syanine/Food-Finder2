@@ -276,7 +276,7 @@ foods= [
         "culture": "Indian",
         "main_ingredient": "Chicken, yogurt, tandoori masala",
         "average_price": 12.00,
-        "image": "https://simshomekitchen.com/wp-content/uploads/2022/04/tandoori-skewers.png",
+        "image": "https://www.closetcooking.com/wp-content/uploads/2010/05/Grilled-Tandoori-Chicken-1-500.jpg",
         "resturant": "Sagar Resturant",
         "Dietary_Restrictions": "halal",
         "mood": "Comforting"
