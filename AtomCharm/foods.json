@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Margherita Pizza",
+    "culture": "Italian",
+    "main_ingredient": "Tomato & Mozzarella",
+    "avg_price": 15,
+    "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38"
+  },
+  {
+    "name": "Chicken Tikka Masala",
+    "culture": "Indian",
+    "main_ingredient": "Chicken",
+    "avg_price": 18,
+    "image": "https://images.unsplash.com/photo-1604908177190-62c2f3da2774"
+  },
+  {
+    "name": "Sushi Salmon Nigiri",
+    "culture": "Japanese",
+    "main_ingredient": "Salmon",
+    "avg_price": 12,
+    "image": "https://images.unsplash.com/photo-1549880338-65ddcdfd017b"
+  },
+  {
+    "name": "Tacos al Pastor",
+    "culture": "Mexican",
+    "main_ingredient": "Pork",
+    "avg_price": 9,
+    "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092"
+  },
+  {
+    "name": "Beef Bulgogi",
+    "culture": "Korean",
+    "main_ingredient": "Beef",
+    "avg_price": 17,
+    "image": "https://images.unsplash.com/photo-1605478889960-e10f23ccb5bb"
+  },
+  {
+    "name": "Falafel Wrap",
+    "culture": "Middle-Eastern",
+    "main_ingredient": "Chickpeas",
+    "avg_price": 10,
+    "image": "https://images.unsplash.com/photo-1600544405928-c85eea0fadca"
+  },
+  {
+    "name": "Peking Duck",
+    "culture": "Chinese",
+    "main_ingredient": "Duck",
+    "avg_price": 25,
+    "image": "https://images.unsplash.com/photo-1589712235559-6b896136d4a0"
+  },
+  {
+    "name": "Pad Thai",
+    "culture": "Thai",
+    "main_ingredient": "Rice Noodles",
+    "avg_price": 14,
+    "image": "https://images.unsplash.com/photo-1606119026089-21b5758960b6"
+  },
+  {
+    "name": "Pierogi Ruskie",
+    "culture": "Polish",
+    "main_ingredient": "Potato & Cheese",
+    "avg_price": 11,
+    "image": "https://images.unsplash.com/photo-1617196032264-1f119f08c6b1"
+  },
+  {
+    "name": "Baklava",
+    "culture": "Turkish",
+    "main_ingredient": "Phyllo & Nuts",
+    "avg_price": 6,
+    "image": "https://images.unsplash.com/photo-1581091012184-12f7ecf4d87e"
+  }
+]

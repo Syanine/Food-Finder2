@@ -1,0 +1,844 @@
+[
+  {
+    "name": "Nuan Xin Rice Roll",
+    "cuisine": "Chinese",
+    "price": "$",
+    "address": "136 - 55 Roosevelt Ave Flushing, NY 11354 Downtown Flushing, Flushing",
+    "photo": "https://storage.fantuan.ca/fantuan/us/default/blob/ada129ca80d94e03a7f0cc60015b477d/1603438633099014144.",
+    "rating": "4.9",
+    "lat": 40.760311,
+    "long": -73.828156
+  },
+  {
+    "name": "Pop Rice",
+    "cuisine": "Chinese",
+    "price": "$$",
+    "address": "162-16 Union Tpke Unit 103, Flushing, NY 11367",
+    "photo": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=90/media/photosV2/3bb7366e-dd29-4ab3-9d3e-b14883ea88f1-retina-large.jpg",
+    "rating": "3.7",
+    "lat":40.719356,
+    "long": -73.811286
+  },
+  {
+    "name": "Shanghai You Garden",
+    "cuisine": "Chinese",
+    "price": "$$",
+    "address": "135-33 40th Rd, Flushing, NY 11354",
+    "photo": "https://res.cloudinary.com/the-infatuation/image/upload/q_auto,f_auto/cms/KatePrevite_NYC_ShanghaiYou_PekingDuck_18",
+    "rating": "3.9",
+    "lat": 40.758972,
+    "long": -73.830528
+  },
+  {
+    "name": "Nan Xiang Xiao Long Bao",
+    "cuisine": "Chinese",
+    "price": "$$$",
+    "address": "39-16 Prince St #104, Flushing, NY 11354",
+    "photo": "https://s3-media0.fl.yelpcdn.com/bphoto/lmcpkjW6fo_uJqBnxxqk4w/348s.jpg",
+    "rating": "4.5",
+    "lat": 40.759313,
+    "long": -73.832556
+  },
+  {
+    "name": "Joe's Steam Rice  Roll",
+    "cuisine": "Chinese",
+    "price": "$",
+    "address": "136-21 Roosevelt Ave # A1, Flushing, NY 11354",
+    "photo": "https://s3-media0.fl.yelpcdn.com/bphoto/6HK_YSUR3BW0siX8YDcKuQ/348s.jpg",
+    "rating": "4.4",
+    "lat": 40.760105,
+    "long": -73.829414
+  },
+  {
+    "name": "Niuddo",
+    "cuisine": "Chinese",
+    "price": "$",
+    "address": "41-42 Main St, Flushing, NY 11355",
+    "photo": "https://apis3.fantuan.ca/image/object_image_1630569147.7468157_cover.jpg",
+    "rating": "4.4",
+    "lat": 40.756992,
+    "long": -73.829269
+  },
+  {
+    "name": "Yunan Rice Noodles House",
+    "cuisine": "Chinese",
+    "price": "$$",
+    "address": "53 Bayard St, New York, NY 10013",
+    "photo": "https://s3-media0.fl.yelpcdn.com/bphoto/WvGN3CshoNGIiFgSfwo0pA/348s.jpg",
+    "rating": "4.0",
+    "lat": 40.715215,
+    "long": -73.997676
+  },
+  {
+    "name": "Shoo Looong Kan HotPot",
+    "cuisine": "Chinese",
+    "price": "$$$$",
+    "address": "133-36 37th Ave, Flushing, NY 11354",
+    "photo": "https://rockfork.it/wp-content/uploads/2024/09/lHotpot-i-brodi-di-Shoo-Loong-Kan-Milano.jpeg",
+    "rating": "4.7",
+    "lat": 40.760054,
+    "long": -73.833996
+  },
+  {
+    "name": "Nonna Delia's",
+    "cuisine": "Italian",
+    "price": "$$",
+    "address": "18-32 College Point Blvd, Flushing, NY 11356",
+    "photo": "https://slicelife.imgix.net/21223/photos/original/nonnaDelia's_bbqChicken.jpg?auto=compress&auto=format",
+    "rating": "4.3",
+    "lat": 40.782253,
+    "long": -73.846214
+  },
+  {
+    "name": "Royal Pizza",
+    "cuisine": "Italian",
+    "price": "$",
+    "address": "55-06 Myrtle Ave, Ridgewood, NY 11385",
+    "photo": "https://img.cdn4dd.com/cdn-cgi/image/fit=cover,width=600,height=400,format=auto,quality=80/https://doordash-static.s3.amazonaws.com/media/store/header/97cefae7-4560-4967-9d7b-1130c8355f98.jpg",
+    "rating": "4.1",
+    "lat": 40.699734,
+    "long": -73.908211
+  },
+  {
+    "name": "La Bottega Glen Cove",
+    "cuisine": "Italian",
+    "price": "$$",
+    "address": "190 Glen St, Glen Cove, NY 11542",
+    "photo": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=90/media/photosV2/141043e5-afe3-444b-a3ae-e1c83aabcbb7-retina-large.jpg",
+    "rating": "4.3",
+    "lat": 40.863721,
+    "long": -73.628292
+  },
+  {
+    "name": "NYC TIKKA MASALA",
+    "cuisine": "Indian",
+    "price": "$$",
+    "address": "44-27 Kissena Blvd, Queens, NY 11355",
+    "photo": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=90/media/photosV2/fc13486a-ec3f-4b70-b1e0-1d5e17686d9c-retina-large.jpeg",
+    "rating": "4.4",
+    "lat": 40.753430,
+    "long": -73.821964
+  },
+  {
+    "name": "Sagar Restaurant",
+    "cuisine": "Bangladeshi",
+    "price": "$$",
+    "address": "168-25B Hillside Ave., Jamaica, NY 11432",
+    "photo": "https://sagarchinese.com/sagarfood/wp-content/uploads/2020/02/Desi-Combo-1.jpg",
+    "rating": "3.6",
+    "lat": 40.714524,
+    "long": -73.776220
+  },
+  {
+    "name": "Dhaka Garden",
+    "cuisine": "Banglasdeshi",
+    "price": "$$",
+    "address": "72-23 37th Ave, Jackson Heights, NY 11372",
+    "photo": "https://s3-media0.fl.yelpcdn.com/bphoto/OiuULB_BcrHMvLNxrY2-rA/348s.jpg",
+    "rating": "3.4",
+    "lat": 40.749096,
+    "long": -73.892960
+  },
+  {
+    "name": "Shahi Catering",
+    "cuisine": "Indian",
+    "price": "$$",
+    "address": "236-03 Braddock Ave, Queens, NY 11426",
+    "photo": "https://www.skipthedishes.com/_next/image?url=https%3A%2F%2Fstatic.skipthedishes.com%2Fshahi-catering-menu-image-large-1536877533975.jpg&w=3840&q=75",
+    "rating": "4.4",
+    "lat": 40.727646,
+    "long": -73.731171
+  },
+  {
+    "name": "Varli Indian Street Kitchen",
+    "cuisine": "Indian",
+    "price": "$$$",
+    "address": "78 Hillside Ave., Williston Park, NY 11596",
+    "photo": "https://s3-media0.fl.yelpcdn.com/bphoto/XlcN6ocMY39IluIy-7AKTw/348s.jpg",
+    "rating": "4.6",
+    "lat": 40.757371,
+    "long": -73.642635
+  },
+  {
+    "name": "Kabab King",
+    "cuisine": "Halal",
+    "price": "$$",
+    "address": "7301 37th Rd, Jackson Heights, NY 11372",
+    "photo": "https://s3-media0.fl.yelpcdn.com/bphoto/-bPPldzQS-HJvcFdEK4wCA/348s.jpg",
+    "rating": "3.6",
+    "lat": 40.747281,
+    "long": -73.892271
+  },
+  {
+    "name": "Bhatura King",
+    "cuisine": "Indian",
+    "price": "$$",
+    "address": "241-23 Braddock Ave, Jamaica, NY 11426",
+    "photo": "https://img.cdn4dd.com/p/fit=cover,width=1200,height=1200,format=auto,quality=90/media/photosV2/ba40ada3-6932-409d-937b-668d682dd640-retina-large.jpg",
+    "rating": "4.7",
+    "lat": 40.726480,
+    "long": -73.726502
+  },
+  {
+    "name": "Lucky Dhaba",
+    "cuisine": "Indian",
+    "price": "$$",
+    "address": "114-06 Jamaica Ave, Jamaica, NY 11418",
+    "photo": "https://static.spotapps.co/spots/76/b94bd3da9e442897eeb89fdd1d828d/full",
+    "rating": "4.0",
+    "lat": 40.698174,
+    "long": -73.834503
+  },
+  {
+    "name": "Pho Hoang",
+    "cuisine": "Vietnamese",
+    "price": "$$",
+    "address": "41-01 Kissena Blvd, Flushing, NY 11355",
+    "photo": "https://burgersbarbecueandeverythingelse.com/wp-content/uploads/2017/07/img_6380-1.jpg",
+    "rating": "4.4",
+    "lat": 40.758329,
+    "long": -73.828950
+  },
+  {
+    "name": "Joju",
+    "cuisine": "Vietnamese",
+    "price": "$$",
+    "address": "37-12 Prince St, Flushing, NY 11354",
+    "photo": "https://d1w7312wesee68.cloudfront.net/s4MRrDbpXIeSo0NFKpo2tjxrO0nmIFKT4ic6qB8qxTw/resize:fit:720:720/plain/s3://toasttab/restaurants/restaurant-112675000000000000/menu/items/5/item-500000017473327225_1683142655.jpg",
+    "rating": "3.8",
+    "lat": 40.760410,
+    "long": -73.833150
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  },
+  {
+    "name": "",
+    "cuisine": "",
+    "price": "",
+    "address": "",
+    "photo": "",
+    "rating": ""
+  }
+]
