@@ -236,7 +236,7 @@ foods= [
         "culture": "Chinese",
         "main_ingredient": "Rice, lamb, cuming, garlic, ginger",
         "average_price": 10.50,
-        "image": "https://www.popricenyc.com/maglev/assets/8c7d40cd-6832-4ae5-8637-77e65170893f-item-100000013911912530_1637731218.jpg",
+        "image": "https://www.popricenyc.com/maglev/assets/c1e8d7e6-025b-46c5-ade1-578d66bdfb7c-item-100000013911912532_1637731241.jpg",
         "resturant": "Pop Rice",
         "Dietary_Restrictions": "vegan",
         "mood": "Adventurous"
@@ -246,7 +246,7 @@ foods= [
         "culture": "Chinese",
         "main_ingredient": "Rice, Shrimp, Pineapple, Garlic",
         "average_price": 9.50,
-        "image": "https://www.popricenyc.com/maglev/assets/c1e8d7e6-025b-46c5-ade1-578d66bdfb7c-item-100000013911912532_1637731241.jpg",
+        "image": "https://www.popricenyc.com/maglev/assets/8c7d40cd-6832-4ae5-8637-77e65170893f-item-100000013911912530_1637731218.jpg",
         "resturant": "Pop Rice",
         "Dietary_Restrictions": "kosher",
         "mood": "Comforting"
